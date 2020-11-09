@@ -1,6 +1,12 @@
 
 # Changelog
 
+## 2.176.0.2 (10/NOV/2020)
+* Supports auto collection of Screen Resolution.
+* Added API to report Dropped frames.
+* Supports Xbox Series S/X devices.
+* Enhanced error logging.
+
 ## 2.176.0.1 (17/JUL/2020)
 * Fixes a stability issue.
 
