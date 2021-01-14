@@ -1,6 +1,9 @@
 
 # Changelog
 
+## 2.176.0.3 (15/JAN/2021)
+* Enhanced error handling and error logging.
+
 ## 2.176.0.2 (10/NOV/2020)
 * Supports auto collection of Screen Resolution.
 * Added API to report Dropped frames.
