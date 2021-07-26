@@ -1,6 +1,9 @@
 
 # Changelog
 
+## 2.176.0.4 (27/JUL/2021)
+* Added support for ARM64 architecture.
+
 ## 2.176.0.3 (15/JAN/2021)
 * Enhanced error handling and error logging.
 
