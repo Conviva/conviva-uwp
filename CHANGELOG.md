@@ -1,6 +1,9 @@
 
 # Changelog
 
+## 2.176.0.5 (19/AUG/2021)
+* Improved stability during event reporting.
+
 ## 2.176.0.4 (27/JUL/2021)
 * Added support for ARM64 architecture.
 
