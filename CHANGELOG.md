@@ -1,6 +1,11 @@
 
 # Changelog
 
+## 2.177.0.0 (20/OCT/2021)
+* Supports Windows 11.
+* Supports auto collection of app version.
+* Supports external error reporting.
+
 ## 2.176.0.5 (19/AUG/2021)
 * Improved stability during event reporting.
 
