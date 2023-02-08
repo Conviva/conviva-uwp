@@ -1,6 +1,15 @@
 
 # Changelog
 
+## 2.178.1.0 (08/JAN/2022).
+* Fixed ad.csid tag issue for Ad Session
+* Fixed issues on other metadata for Ad Session.
+
+## 2.178.0.0 (09/SEP/2022)
+* Support for Ad experience.
+* New API for creation of Ad Session.
+* New API to report Ad Break Start or Ad Break End on the Main Session.
+
 ## 2.177.0.0 (20/OCT/2021)
 * Supports Windows 11.
 * Supports auto collection of app version.
