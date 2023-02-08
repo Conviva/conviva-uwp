@@ -1,7 +1,7 @@
 
 # Changelog
 
-## 2.178.1.0 (08/JAN/2022).
+## 2.178.1.0 (08/FEB/2022).
 * Fixed ad.csid tag issue for Ad Session
 * Fixed issues on other metadata for Ad Session.
 
