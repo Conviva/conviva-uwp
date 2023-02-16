@@ -1,9 +1,12 @@
 
 # Changelog
 
-## 2.178.1.0 (08/FEB/2022).
+## 2.179.0.1 (17/FEB/2023).
+* Introduce setAverageBitrate() API to support average bitrate
+* Modifies SetBitrate() API documentation for peak bitrate
+
+## 2.178.1.0 (09/FEB/2023).
 * Fixed ad.csid tag issue for Ad Session
-* Fixed issues on other metadata for Ad Session.
 
 ## 2.178.0.0 (09/SEP/2022)
 * Support for Ad experience.
