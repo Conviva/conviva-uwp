@@ -1,6 +1,9 @@
 
 # Changelog
 
+## 2.180.0.2 (02/APR/2023).
+* Introduces reportLanguageChange() API for the Audio/Subtitle/Closed Caption Language event support.
+
 ## 2.179.0.1 (17/FEB/2023).
 * Introduce setAverageBitrate() API to support average bitrate
 * Modifies SetBitrate() API documentation for peak bitrate
