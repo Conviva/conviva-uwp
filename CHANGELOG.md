@@ -1,7 +1,10 @@
 
 # Changelog
 
-## 2.180.0.2 (02/APR/2023).
+## 2.180.0.4 (17/NOV/2023).
+* Enhanced error handling and fixed warnings
+
+## 2.180.0.3 (10/APR/2023).
 * Introduces reportLanguageChange() API for the Audio/Subtitle/Closed Caption Language event support.
 
 ## 2.179.0.1 (17/FEB/2023).
